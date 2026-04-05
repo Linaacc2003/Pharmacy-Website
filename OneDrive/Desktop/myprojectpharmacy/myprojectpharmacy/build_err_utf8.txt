@@ -1,0 +1,25 @@
+﻿  Identification des projets ├á restaurer...
+  Tous les projets sont ├á jour pour la restauration.
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Controllers\SupplierController.cs(11,46): warning CS8604: Existence possible d'un argument de r├®f├®rence null pour le param├¿tre 'connectionString' dans 'SupplierRepository.SupplierRepository(string connectionString)'. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Account\Login.cshtml(42,10): error CS0103: Le nom 'keyframes' n'existe pas dans le contexte actuel [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Shared\_Layout.cshtml(27,30): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Details.cshtml(17,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Details.cshtml(23,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Delete.cshtml(18,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Delete.cshtml(24,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+
+├ëCHEC de la build.
+
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Controllers\SupplierController.cs(11,46): warning CS8604: Existence possible d'un argument de r├®f├®rence null pour le param├¿tre 'connectionString' dans 'SupplierRepository.SupplierRepository(string connectionString)'. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Shared\_Layout.cshtml(27,30): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Details.cshtml(17,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Details.cshtml(23,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Delete.cshtml(18,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Prescription\Delete.cshtml(24,39): warning CS8602: D├®r├®f├®rencement d'une ├®ventuelle r├®f├®rence null. [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\Views\Account\Login.cshtml(42,10): error CS0103: Le nom 'keyframes' n'existe pas dans le contexte actuel [C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\myprojectpharmacy.csproj]
+    6 Avertissement(s)
+    1 Erreur(s)
+
+Temps ├®coul├® 00:00:06.18
+
+Des mises ├á jour de la charge de travail sont disponibles. Ex├®cutez `dotnet workload list` pour plus dÔÇÖinformations.

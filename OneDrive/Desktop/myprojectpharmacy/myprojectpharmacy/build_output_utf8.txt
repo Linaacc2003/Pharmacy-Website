@@ -1,0 +1,11 @@
+﻿  Identification des projets ├á restaurer...
+  Tous les projets sont ├á jour pour la restauration.
+  myprojectpharmacy -> C:\Users\CYBORG\OneDrive\Desktop\myprojectpharmacy\myprojectpharmacy\bin\Debug\net8.0\myprojectpharmacy.dll
+
+La g├®n├®ration a r├®ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ├®coul├® 00:00:02.24
+
+Des mises ├á jour de la charge de travail sont disponibles. Ex├®cutez `dotnet workload list` pour plus dÔÇÖinformations.

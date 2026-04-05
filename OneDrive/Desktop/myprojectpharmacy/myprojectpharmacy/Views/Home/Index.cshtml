@@ -1,0 +1,92 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="text-center mb-5">
+    <h1 class="display-4 fw-bold text-success mb-2">Welcome to SmartPharmacy</h1>
+    <p class="lead text-muted">A modern POS system for efficient pharmacy management.</p>
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 mt-4">
+    <!-- Pharmacists -->
+    <div class="col">
+        <div class="card h-100 p-3 shadow-sm border-0 position-relative overflow-hidden">
+            <div class="card-body text-center">
+                <div class="stat-icon mb-3">
+                    <i class="bi bi-person-badge-fill text-success fs-1"></i>
+                </div>
+                <h5 class="card-title fw-bold">Pharmacists</h5>
+                <p class="card-text text-muted small">Manage staff and licenses.</p>
+                <a asp-controller="Pharmacist" asp-action="Index" class="btn btn-emerald stretched-link">View Staff</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Patients -->
+    <div class="col">
+        <div class="card h-100 p-3 shadow-sm border-0 position-relative overflow-hidden">
+            <div class="card-body text-center">
+                <div class="stat-icon mb-3">
+                    <i class="bi bi-people-fill text-success fs-1"></i>
+                </div>
+                <h5 class="card-title fw-bold">Patients</h5>
+                <p class="card-text text-muted small">Access patient records.</p>
+                <a asp-controller="Patient" asp-action="Index" class="btn btn-emerald stretched-link">Manage Patients</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prescriptions -->
+    <div class="col">
+        <div class="card h-100 p-3 shadow-sm border-0 position-relative overflow-hidden">
+            <div class="card-body text-center">
+                <div class="stat-icon mb-3">
+                    <i class="bi bi-journal-medical text-success fs-1"></i>
+                </div>
+                <h5 class="card-title fw-bold">Prescriptions</h5>
+                <p class="card-text text-muted small">Track and issue prescriptions.</p>
+                <a asp-controller="Prescription" asp-action="Index" class="btn btn-emerald stretched-link">View Orders</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Suppliers -->
+    <div class="col">
+        <div class="card h-100 p-3 shadow-sm border-0 position-relative overflow-hidden">
+            <div class="card-body text-center">
+                <div class="stat-icon mb-3">
+                    <i class="bi bi-box-seam-fill text-success fs-1"></i>
+                </div>
+                <h5 class="card-title fw-bold">Suppliers</h5>
+                <p class="card-text text-muted small">Inventory and supply chain.</p>
+                <a asp-controller="Supplier" asp-action="Index" class="btn btn-emerald stretched-link">Manage Inventory</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .btn-emerald {
+        background-color: #10b981;
+        color: white;
+        border-radius: 20px;
+        padding: 0.5rem 1.5rem;
+        font-weight: 600;
+        transition: all 0.3s;
+    }
+    .btn-emerald:hover {
+        background-color: #059669;
+        color: white;
+        transform: scale(1.05);
+    }
+    .stat-icon {
+        background-color: #ecfdf5;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+    }
+</style>
